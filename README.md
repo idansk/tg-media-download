@@ -1,7 +1,5 @@
-# tg-media-download
+# tg-media-download-ex(tended)
 Ever wanted to download all media from a Telegram chat? Here's a simple way to do it.  
-
-> This should've really been a gist. ¯\\_(ツ)_/¯  
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
@@ -47,3 +45,5 @@ WWWWWW||WWWWWW
        (__|__|(__|__|
 ```
 Code and documentation are available according to the MIT License (see [LICENSE](LICENSE)).
+
+Credit - Original code from [DenisOH](https://github.com/DenisOH/tg-media-download)
